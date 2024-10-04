@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "168563162134",
+    "firebase_url": "https://flutter-test-69ab6-default-rtdb.firebaseio.com",
+    "project_id": "flutter-test-69ab6",
+    "storage_bucket": "flutter-test-69ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168563162134:android:208fad20c8f04348388937",
+        "android_client_info": {
+          "package_name": "com.enviaseo.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAlQaPtV6ID2TrGoB2RWxwm0NsVnGEDsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168563162134:android:70cfbc3719f33a0d388937",
+        "android_client_info": {
+          "package_name": "com.enviaseo.maps_mvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAlQaPtV6ID2TrGoB2RWxwm0NsVnGEDsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
