@@ -65,7 +65,7 @@ class _HomeState extends State<Home> {
 
                     },
                     background: Container(
-                      color: Color.fromARGB(255, 255, 35, 19),
+                      color: const Color.fromARGB(255, 255, 35, 19),
                       child: const Icon(Icons.delete),
                     ),
                     direction: DismissDirection.endToStart,
